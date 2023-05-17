@@ -1,0 +1,20 @@
+{
+  "name": "chill-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugglinglee/chill-utils.git"
+  },
+  "keywords": ["utils", "debounce", "throttle"],
+  "author": "strugglinglee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strugglinglee/chill-utils/issues"
+  },
+  "homepage": "https://github.com/strugglinglee/chill-utils#readme"
+}
