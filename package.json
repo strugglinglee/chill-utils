@@ -1,6 +1,6 @@
 {
   "name": "chill-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./lib/",
   "files": [
@@ -27,5 +27,6 @@
   },
   "homepage": "https://github.com/strugglinglee/chill-utils#readme",
   "dependencies": {
+    "colors": "^1.4.0"
   }
 }
